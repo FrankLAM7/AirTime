@@ -21,7 +21,7 @@
 
 La aplicación está desplegada en [GitHub Pages](https://pages.github.com/), y es accesible libremente sin restricciones geográficas.
 
-Puedes acceder a la aplicación en el siguiente enlace: [AirTime - TV en Vivo](URL_DE_TU_APP)
+Puedes acceder a la aplicación en el siguiente enlace: [AirTime - TV en Vivo](https://franklam7.github.io/AirTime/)
 
 ## Uso
 
